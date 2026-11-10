@@ -36,9 +36,9 @@ const onwarn = (warning, warn) => {
 
 export default [
   {
-    input: 'src/__GITHUB_CARD_NAME__.ts',
+    input: 'src/ha-custom-air-quality-card.ts',
     output: {
-      file: 'dist/__GITHUB_CARD_NAME__.js',
+      file: 'dist/ha-custom-air-quality-card.js',
       format: 'es',
       inlineDynamicImports: true,
     },

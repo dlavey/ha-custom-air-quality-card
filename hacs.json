@@ -1,5 +1,5 @@
 {
-    "name": "__GITHUB_CARD_NAME__",
+    "name": "ha-custom-air-quality-card",
     "render_readme": true,
-    "filename": "__GITHUB_CARD_NAME__.js"
+    "filename": "ha-custom-air-quality-card.js"
 }
